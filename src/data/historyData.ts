@@ -18,6 +18,17 @@ export interface HistoryDay {
 }
 
 export const historyDays: HistoryDay[] = [
+
+{
+    date: "24-05-2026",
+    totalOdds: "21.90",
+    matches: [
+      { homeTeam: "FAR Rabat", awayTeam: "Mamelodi", tip: "Draw FT", odds: "3.20", status: "PENDING" },
+      { homeTeam: "Agropecuario", awayTeam: "Quilmes", tip: "Draw FT", odds: "2.90", status: "PENDING" },
+      { homeTeam: "Gimnasia y tiro", awayTeam: "Jujuy", tip: "Draw FT", odds: "3.00", status: "PENDING" },
+    ]
+  },
+
   {
     date: "24-05-2026",
     totalOdds: "21.90",
