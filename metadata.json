@@ -1,0 +1,6 @@
+{
+  "name": "Fixed Draws FT & Betting Tips",
+  "description": "Programu ya kukupatia tips za betting ikiwemo section ya Fixed Draws FT iliyolindwa kwa encryption, yenye odds 10+ kila siku na usajili wa miezi miwili kwa njia ya WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
