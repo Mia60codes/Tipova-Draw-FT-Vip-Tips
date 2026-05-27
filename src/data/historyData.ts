@@ -31,7 +31,6 @@ export const historyDays: HistoryDay[] = [
       { homeTeam: "Gimnasia y tiro", awayTeam: "Jujuy", tip: "Draw FT", odds: "3.00", status: "WON" },
     ]
   },
-  {
 
 {
     date: "25-05-2026",
