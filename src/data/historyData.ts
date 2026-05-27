@@ -26,9 +26,9 @@ export const historyDays: HistoryDay[] = [
     date: "26-05-2026",
     totalOdds: "21.90",
     matches: [
-      { homeTeam: "FAR Rabat", awayTeam: "Mamelodi", tip: "Draw FT", odds: "3.20", status: "WON" },
-      { homeTeam: "Agropecuario", awayTeam: "Quilmes", tip: "Draw FT", odds: "2.90", status: "WON" },
-      { homeTeam: "Gimnasia y tiro", awayTeam: "Jujuy", tip: "Draw FT", odds: "3.00", status: "WON" },
+      { homeTeam: "kenya", awayTeam: "Mamelodi", tip: "Draw FT", odds: "3.20", status: "WON" },
+      { homeTeam: "Agropecuhhho", awayTeam: "Quilmes", tip: "Draw FT", odds: "2.90", status: "WON" },
+      { homeTeam: "Yanga y tiro", awayTeam: "Jujuy", tip: "Draw FT", odds: "3.00", status: "WON" },
     ]
   },
 
