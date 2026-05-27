@@ -34,7 +34,7 @@ export const historyDays: HistoryDay[] = [
   {
 
 {
-    date: "24-05-2026",
+    date: "25-05-2026",
     totalOdds: "21.90",
     matches: [
       { homeTeam: "Enppi", awayTeam: "Wadi Degla", tip: "Draw FT", odds: "3.00", status: "WON" },
