@@ -17,19 +17,29 @@ export interface HistoryDay {
 
 export const historyDays: HistoryDay[] = [
 
-  {
+ {
     date: "26-05-2026",
-    totalOdds: "21.90",
+    totalOdds: "18.13",
     matches: [
-      { homeTeam: "FAR Rabat", awayTeam: "Mamelodi", tip: "Draw FT", odds: "3.20", status: "WON" },
-      { homeTeam: "Agropecuario", awayTeam: "Quilmes", tip: "Draw FT", odds: "2.90", status: "WON" },
-      { homeTeam: "Gimnasia y tiro", awayTeam: "Jujuy", tip: "Draw FT", odds: "3.00", status: "WON" },
+      { homeTeam: "Frandria", awayTeam: "Arsenal Sarandi", tip: "Draw FT", odds: "2.95", status: "WON" },
+      { homeTeam: "Sidama Bunna ", awayTeam: "Ethiopian Insuarance", tip: "Draw FT", odds: "2.70", status: "WON" },
+      { homeTeam: "Deportivo Merlo", awayTeam: "Liniers", tip: "Draw FT", odds: "2.90", status: "WON" },
+    ]
+  },
+
+ {
+    date: "26-05-2026",
+    totalOdds: "18.13",
+    matches: [
+      { homeTeam: "Frandria", awayTeam: "Arsenal Sarandi", tip: "Draw FT", odds: "2.95", status: "WON" },
+      { homeTeam: "Sidama Bunna ", awayTeam: "Ethiopian Insuarance", tip: "Draw FT", odds: "2.70", status: "WON" },
+      { homeTeam: "Deportivo Merlo", awayTeam: "Liniers", tip: "Draw FT", odds: "2.90", status: "WON" },
     ]
   },
 
   {
     date: "25-05-2026",
-    totalOdds: "27.90",
+    totalOdds: "23.90",
     matches: [
       { homeTeam: "Enppi", awayTeam: "Wadi Degla", tip: "Draw FT", odds: "3.00", status: "WON" },
       { homeTeam: "Welwalo", awayTeam: "Makelle 70", tip: "Draw FT", odds: "3.00", status: "WON" },
