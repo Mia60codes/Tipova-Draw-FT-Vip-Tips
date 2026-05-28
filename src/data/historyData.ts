@@ -27,6 +27,18 @@ export const historyDays: HistoryDay[] = [
     ]
   },
 
+
+
+{
+    date: "26-05-2026",
+    totalOdds: "20.07",
+    matches: [
+      { homeTeam: "Niyore Zamini", awayTeam: "Havadar", tip: "Draw FT", odds: "3.00", status: "WON" },
+      { homeTeam: "Mara sugar", awayTeam: "Gor Mahia", tip: "Draw FT", odds: "2.80", status: "WON" },
+      { homeTeam: "Kibera", awayTeam: "Nairobi City", tip: "Draw FT", odds: "3.00", status: "WON" },
+    ]
+  },
+
  {
     date: "26-05-2026",
     totalOdds: "18.13",
