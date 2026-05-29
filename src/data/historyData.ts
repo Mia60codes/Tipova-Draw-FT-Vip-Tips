@@ -18,16 +18,24 @@ export interface HistoryDay {
 export const historyDays: HistoryDay[] = [
 
  {
-    date: "28-05-2026",
-    totalOdds: "22.88",
+    date: "29-05-2026",
+    totalOdds: "21.66",
     matches: [
-      { homeTeam: "Locked Tips 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.10", status: "PENDING" },
-      { homeTeam: "Locked  🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.00", status: "PENDING" },
-      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.05", status: "PENDING" },
+      { homeTeam: "Locked Tips 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "2.95", status: "PENDING" },
+      { homeTeam: "Locked  🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "2.90", status: "PENDING" },
+      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "4.00", status: "PENDING" },
     ]
   },
 
-
+{
+    date: "28-05-2026",
+    totalOdds: "22.88",
+    matches: [
+      { homeTeam: "River Plate 2", awayTeam: "San lorenzo", tip: "Draw FT", odds: "3.10", status: "WON" },
+      { homeTeam: "Rio Branco", awayTeam: "Vilavelhense", tip: "Draw FT", odds: "3.00", status: "WON" },
+      { homeTeam: "Minaaa", awayTeam: "Al Talaba", tip: "Draw FT", odds: "3.05", status: "WON" },
+    ]
+  },
 
 {
     date: "27-05-2026",
