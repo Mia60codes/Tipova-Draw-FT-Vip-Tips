@@ -18,6 +18,17 @@ export interface HistoryDay {
 export const historyDays: HistoryDay[] = [
 
   {
+    date: "06-06-2026",
+    totalOdds: "20.90",
+    matches: [
+      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "2.89", status: "PEND" },
+      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.00", status: "PEND" },
+      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.10", status: "PEND" },
+    ]
+  },
+
+
+{
     date: "05-06-2026",
     totalOdds: "23.61",
     matches: [
@@ -88,9 +99,9 @@ export const historyDays: HistoryDay[] = [
     date: "29-05-2026",
     totalOdds: "21.66",
     matches: [
-      { homeTeam: "Locked Tips 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "2.95", status: "PENDING" },
-      { homeTeam: "Locked  🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "2.90", status: "PENDING" },
-      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "4.00", status: "PENDING" },
+      { homeTeam: "National Egypt", awayTeam: "Al Ittihad", tip: "Draw FT", odds: "2.95", status: "WON" },
+      { homeTeam: "Fasil Kenema", awayTeam: "Sheger Ketema", tip: "Draw FT", odds: "2.90", status: "WON" },
+      { homeTeam: "Ethiopia Nighd", awayTeam: "Ethio Electick", tip: "Draw FT", odds: "4.00", status: "WON" },
     ]
   },
 
