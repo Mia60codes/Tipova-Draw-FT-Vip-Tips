@@ -21,9 +21,9 @@ export const historyDays: HistoryDay[] = [
     date: "06-06-2026",
     totalOdds: "20.90",
     matches: [
-      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "2.89", status: "PEND" },
-      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.00", status: "PEND" },
-      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.10", status: "PEND" },
+      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "2.89", status: "PENDING" },
+      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.00", status: "PENDING" },
+      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.10", status: "PENDING" },
     ]
   },
 
