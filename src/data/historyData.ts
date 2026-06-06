@@ -17,7 +17,74 @@ export interface HistoryDay {
 
 export const historyDays: HistoryDay[] = [
 
- {
+  {
+    date: "05-06-2026",
+    totalOdds: "23.61",
+    matches: [
+      { homeTeam: "Kabylie", awayTeam: "Belouizdad", tip: "Draw FT", odds: "3.20", status: "WON" },
+      { homeTeam: "Mostaganem", awayTeam: "El Bayadh", tip: "Draw FT", odds: "2.95", status: "WON" },
+      { homeTeam: "Angola", awayTeam: "Mauritania", tip: "Draw FT", odds: "3.10", status: "WON" },
+    ]
+  },
+
+  {
+    date: "04-06-2026",
+    totalOdds: "21.00",
+    matches: [
+      { homeTeam: "Goree", awayTeam: "Mbour", tip: "Draw FT", odds: "2.80", status: "WON" },
+      { homeTeam: "Welayta Dicha", awayTeam: "Negele Arsi", tip: "Draw FT", odds: "2.90", status: "WON" },
+      { homeTeam: "Paraguari", awayTeam: "Tembetary", tip: "Draw FT", odds: "3.00", status: "WON" },
+    ]
+  },
+
+  {
+    date: "03-06-2026",
+    totalOdds: "8.85",
+    matches: [
+      { homeTeam: "Atletico FC", awayTeam: "Nueva", tip: "Draw FT", odds: "2.80", status: "WON" },
+      { homeTeam: "Brescia", awayTeam: "Ascoli", tip: "Draw FT", odds: "2.90", status: "WON" },
+    ]
+  },
+
+  {
+    date: "02-06-2026",
+    totalOdds: "9.01",
+    matches: [
+      { homeTeam: "Belouizdad", awayTeam: "USM Alger", tip: "Draw FT", odds: "3.00", status: "WON" },
+      { homeTeam: "Eslamshahr", awayTeam: "Shahrdari", tip: "Draw FT", odds: "2.70", status: "WON" },
+    ]
+  },
+
+  {
+    date: "01-06-2026",
+    totalOdds: "11.29",
+    matches: [
+      { homeTeam: "Ponte Preta", awayTeam: "Botafogo SP", tip: "Draw FT", odds: "3.10", status: "WON" },
+      { homeTeam: "Al Masry", awayTeam: "ZED", tip: "Draw FT", odds: "3.00", status: "WON" },
+    ]
+  },
+
+  {
+    date: "31-05-2026",
+    totalOdds: "20.20",
+    matches: [
+      { homeTeam: "Madryn", awayTeam: "Acassuso", tip: "Draw FT", odds: "2.90", status: "WON" },
+      { homeTeam: "Constanta", awayTeam: "Chindia", tip: "Draw FT", odds: "3.00", status: "WON" },
+      { homeTeam: "Patronato", awayTeam: "Tristan Suarez", tip: "Draw FT", odds: "2.90", status: "WON" },
+    ]
+  },
+
+  {
+    date: "30-05-2026",
+    totalOdds: "21.53",
+    matches: [
+      { homeTeam: "Makelle 70", awayTeam: "Bahir Dar kenema", tip: "Draw FT", odds: "2.90", status: "WON" },
+      { homeTeam: "Welwalo", awayTeam: "Ethiopian Insuarance", tip: "Draw FT", odds: "3.00", status: "WON" },
+      { homeTeam: "FUS Rabat", awayTeam: "FAR Rabat", tip: "Draw FT", odds: "3.20", status: "WON" },
+    ]
+  },
+
+  {
     date: "29-05-2026",
     totalOdds: "21.66",
     matches: [
@@ -27,7 +94,7 @@ export const historyDays: HistoryDay[] = [
     ]
   },
 
-{
+  {
     date: "28-05-2026",
     totalOdds: "22.88",
     matches: [
@@ -37,7 +104,7 @@ export const historyDays: HistoryDay[] = [
     ]
   },
 
-{
+  {
     date: "27-05-2026",
     totalOdds: "20.07",
     matches: [
@@ -47,12 +114,12 @@ export const historyDays: HistoryDay[] = [
     ]
   },
 
- {
+  {
     date: "26-05-2026",
     totalOdds: "18.13",
     matches: [
       { homeTeam: "Frandria", awayTeam: "Arsenal Sarandi", tip: "Draw FT", odds: "2.95", status: "WON" },
-      { homeTeam: "Sidama Bunna ", awayTeam: "Ethiopian Insuarance", tip: "Draw FT", odds: "2.70", status: "WON" },
+      { homeTeam: "Sidama Bunna", awayTeam: "Ethiopian Insuarance", tip: "Draw FT", odds: "2.70", status: "WON" },
       { homeTeam: "Deportivo Merlo", awayTeam: "Liniers", tip: "Draw FT", odds: "2.90", status: "WON" },
     ]
   },
