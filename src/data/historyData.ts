@@ -18,12 +18,22 @@ export interface HistoryDay {
 export const historyDays: HistoryDay[] = [
 
   {
+    date: "18-06-2026",
+    totalOdds: "28.20",
+    matches: [
+      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.30", status: "PENDING" },
+      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.00", status: "PENDING" },
+      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.30", status: "PENDING" },
+    ]
+  },
+
+  {
     date: "17-06-2026",
     totalOdds: "27.00",
     matches: [
-      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.05", status: "PENDING" },
-      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.05", status: "PENDING" },
-      { homeTeam: "Locked 🔐", awayTeam: "Locked 🔐", tip: "Draw FT", odds: "3.00", status: "PENDING" },
+      { homeTeam: "Coimbra", awayTeam: "Democrata", tip: "Draw FT", odds: "3.05", status: "WON" },
+      { homeTeam: "Miniema", awayTeam: "Aigles", tip: "Draw FT", odds: "3.05", status: "WON" },
+      { homeTeam: "Caldense", awayTeam: "Guariani", tip: "Draw FT", odds: "3.00", status: "WON" },
     ]
   },
 
